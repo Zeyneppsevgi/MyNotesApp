@@ -69,5 +69,3 @@ extension ViewController { //silme işlemi notları
         return UISwipeActionsConfiguration(actions: [delete])
     }
     }
-
-
